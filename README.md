@@ -55,6 +55,9 @@ Ikuti panduan lengkap di README ini atau lihat langkah di bawah.
 2. Buka vercel.com → New Project
 3. Import repo → Deploy otomatis ✅
 
+jakarta-go-to-guide-mall-edition-6c284s30t-dbinc13.vercel.app
+link vercel ditaruh diatas
+
 ### Opsi B — Via Vercel CLI
 ```bash
 npm install -g vercel
